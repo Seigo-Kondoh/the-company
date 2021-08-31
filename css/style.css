@@ -191,7 +191,7 @@ img {
 .main-visual {
   height: 600px;
   width: 100%;
-  background: url(/img/mainvisual.png) no-repeat center center/cover;
+  background: url(https://seigo-kondoh.github.io/the-company/img/mainvisual.png) no-repeat center center/cover;
   position: relative;
   margin-top: 100px;
 }
