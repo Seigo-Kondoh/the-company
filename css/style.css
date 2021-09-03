@@ -191,7 +191,7 @@ img {
 .main-visual {
   height: 600px;
   width: 100%;
-  background: url(/img/mainvisual.png) no-repeat center center/cover;
+  background: url(https://seigo-kondoh.github.io/the-company/img/mainvisual.png) no-repeat center center/cover;
   position: relative;
   margin-top: 100px;
 }
@@ -456,7 +456,7 @@ img {
           transform: translateY(-50%);
   width: 7px;
   height: 11px;
-  background: url(/img/news-arrow@.png) no-repeat center center/contain;
+  background: url(https://seigo-kondoh.github.io/the-company/img/news-arrow@.png) no-repeat center center/contain;
 }
 
 .price {
@@ -640,7 +640,7 @@ img {
           transform: translateY(-50%);
   width: 17px;
   height: 16px;
-  background: url(/img/button-arrow@2x.png) no-repeat center center/contain;
+  background: url(https://seigo-kondoh.github.io/the-company/img/button-arrow@2x.png) no-repeat center center/contain;
 }
 
 .contact {
@@ -774,7 +774,7 @@ img {
   font-family: inherit;
   font-size: 14px;
   width: 100%;
-  background: #fff url(/img/select-arrow@2x.png) no-repeat right 12px center/17px 14px;
+  background: #fff url(https://seigo-kondoh.github.io/the-company/img/select-arrow@2x.png) no-repeat right 12px center/17px 14px;
 }
 .contact-form__input textarea {
   height: 240px;
@@ -883,7 +883,7 @@ img {
   left: 0;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
-  background: url(/img/checkbox@2x.png) no-repeat center center/contain;
+  background: url(https://seigo-kondoh.github.io/the-company/img/checkbox@2x.png) no-repeat center center/contain;
   display: none;
 }
 .contact-form__radio__check span a {
@@ -903,7 +903,7 @@ img {
   text-align: center;
 }
 .contact-form__button [type=submit] {
-  background: #3f51b5 url(/img/button-arrow@2x.png) no-repeat right 12px center/17px 16px;
+  background: #3f51b5 url(https://seigo-kondoh.github.io/the-company/img/button-arrow@2x.png) no-repeat right 12px center/17px 16px;
   width: 304px;
   height: 56px;
   font-weight: 700;
@@ -1203,7 +1203,7 @@ Drawer
   top: 50%;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
-  background: url(/img/arrow-w@2x.png) no-repeat center center/contain;
+  background: url(https://seigo-kondoh.github.io/the-company/img/arrow-w@2x.png) no-repeat center center/contain;
   width: 18px;
   height: 16px;
 }
